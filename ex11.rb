@@ -13,17 +13,19 @@ puts "So, you're #{age} old, #{height} tall and #{weight} heavy."
 #1. What does gets.chomp mean?
 # gets takes in the user input and .chomp removes the newline
 #2. Find other ways to use get.chomp. Try the samples you find.
-
-
-
+#See example below. gets.chomp works great to display address label by removing .chomp
+#on name and address, but adding on city state and zip.
 #3. Write another "form" to ask some other questions.
 print "What is your name?"
- name = gets.chomp
-print "What is your birthday?"
- dob = gets.chomp
-print "What is your occupation?"
- job = gets.chomp
+ name = gets
+print "Enter your address:"
+  address = gets
+print "City:"
+ city = gets.chomp
+print "State:"
+ state = gets.chomp
+print "ZIP:"
+ zip = gets
 
-puts "Hello, #{name}. The following information will be added to your profile:
-        Date of Birth:  #{dob} and Occupation: #{job}."
+puts "Mailing address: \n #{name} #{address} #{city}, #{state}  #{zip}"
 
