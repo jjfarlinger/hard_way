@@ -24,7 +24,7 @@ puts "A smaller number is #{smaller}."
 # 10% of it.
 puts "How much money will you give me?"
 money = gets.chomp.to_f
-
+#Gives 10% of the money user inputs.
 change = money * 10 / 100
 
 puts "Ten percent of #{money} is #{change}."
