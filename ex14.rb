@@ -11,7 +11,7 @@ lives = $stdin.gets.chomp
 
 puts "What kind of computer do you have? ", prompt
 computer = $stdin.gets.chomp
-
+#Multi-line string """
 puts """
 Alright, so you said #{likes} about liking me.
 You live in #{lives}. Not sure where that is.
