@@ -51,4 +51,4 @@
 #     *args is a lot like ARGV paramenter, but for functions def hello(*args) \n arg1, arg2 = args
 #     Above not needed can do:  hello(arg1, arg2) which eliminates the second line above.
 #     return Sets variables to be a value from a function
-
+#     <<END is a "heredoc" or "here document" - used to create a multi-line string. You can use anyword to declare it <<BIGDOC . . . . BIGDOC
