@@ -1,3 +1,5 @@
+#Using puts command and how to comment a line.
+
 puts "Hello World!"
 puts "Hello Again"
 puts "I like typing this."
@@ -8,7 +10,7 @@ puts 'I "said" do not touch this.'
 
 #Study Drills:
 # 1. Make your script print another line.
-puts "You just learned how to print a Ruby line of code."
+puts "You just learnetd how to print a Ruby line of code."
 #2. Make your script print only one of the lines. 
 puts "Make your script print only one of the lines from above."
 #puts "Hello World!"

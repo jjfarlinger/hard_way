@@ -1,3 +1,4 @@
+#New Line Characters and other Backslash characters
 #By adding \t, the string will be tabbed and display, "I'm tabbed in."
 tabby_cat = "\tI'm tabbed in."
 #By adding \n, the string will display:

@@ -1,3 +1,5 @@
+#Ex 26-28 notes only - no code
+
 =begin multi-line comments
 The Truth Terms
 

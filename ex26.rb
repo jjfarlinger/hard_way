@@ -84,8 +84,8 @@ start_point = start_point / 10
 sentence = "All good things come to those who wait."
 words = Ex25.break_words(sentence)
 sorted_words = Ex25.sort_words(words)
-Ex25.print_first_word(wrds)
-Ex25.print_last_word words)
+Ex25.print_first_word(words)
+Ex25.print_last_word(words)
 Ex25.print_first_word(sort_words)
 Ex25.print_last_word(sorted_words)
 sorted_words = Ex25.sort_sentenc(sentence)

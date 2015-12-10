@@ -1,3 +1,4 @@
+#Comments and Pound (Comment Out)
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by ruby.
 

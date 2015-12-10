@@ -1,3 +1,4 @@
+#Printing, Printing
 #Declaring variable this way lets you declare four variables under one variable name.
 formatter = "%{first} %{second} %{third} %{fourth}"
 #Displays 1 2 3 4

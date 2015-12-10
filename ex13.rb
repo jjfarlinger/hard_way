@@ -26,11 +26,11 @@ puts "Your third variable is: #{third}"
 #3. Combine gets.chomp with ARGV to make a script that gets more input from the user.
 #ARGV is the argument variable - holds the arguements you pass 
 #when you run the script.
-first, second, third = ARGV
+#first, second, third = ARGV
 #When ran, you can pass in three arguments and they will display in order.
-print "Your first variable is: "
-first = gets.chomp
-print "Your second variable is: "
-second = gets.chomp
-print "Your third variable is: "
-third = gets.chomp
+#print "Your first variable is: "
+#first = gets.chomp
+#print "Your second variable is: "
+#second = gets.chomp
+#print "Your third variable is: "
+#third = gets.chomp

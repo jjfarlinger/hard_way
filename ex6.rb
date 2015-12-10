@@ -1,3 +1,4 @@
+#Strings and Text
 # Defining variable types_of_people to hold the integer 10
 types_of_people = 10
 # variable 'x' holds string that also hold integer e stored in thtypes_of_people variable
@@ -8,8 +9,9 @@ binary = "binary"
 do_not = "don't"
 # Displays string with binary and do_not variable strings. String within string references: 1 and 2
 y = "Those who know #{binary} and those who #{do_not}."
-
+# Displays "There are 10 types of people."
 puts x
+# Displays "Those who know binary and those who don't."
 puts y
 # displays string with x variable. String within a string reference: 3
 puts "I said: #{x}."

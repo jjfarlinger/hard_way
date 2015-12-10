@@ -1,3 +1,4 @@
+#Numbers and Math
 # Displays the string.
 puts "I will now count my chickens:"
 # Displays "Hens 30" - uses order of operations and divides 30/6 and then adds 25 to equal 30.

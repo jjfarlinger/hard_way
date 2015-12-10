@@ -1,3 +1,5 @@
+#Prompting and Passing
+
 user_name = ARGV.first
 prompt = '> '
 

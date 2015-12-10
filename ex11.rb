@@ -1,3 +1,5 @@
+#Prompting Users 
+
 #Prompts user for age.
 print "How old are you?"
 #The age variable is going to take in the user input (gets) and remove the newline (.chomp)
